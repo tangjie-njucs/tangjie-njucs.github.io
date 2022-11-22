@@ -1,12 +1,39 @@
 ---
 permalink: /
-title: "About me"
+title: "" #"About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-  
+Biography
+======
 &emsp;&emsp;博士，南京大学计算机科学与技术系副教授，2013年7月至2014年2月在美国普渡大学电气与计算机工程学院访问学者。主持或参与过十多项科研项目的研究和开发工作，包括国家“十二五”科技重大专项、863 课题、国家自然科学基金、江苏省自然科学基金课题等，以及与中石化等公司的广泛合作，研究内容涵盖三维建模、虚拟现实、海量数据处理等领域，获得过国防科工委科技进步二等奖一次，在国内外学术会议和专业杂志上发表论文30 多篇，获得国家发明专利授权2项。2005年起主要从事大规模三维地质建模与显示技术的研究，涉及海量三角网格、体素等数据的建模与显示以及多核、多线程、多分辨、数据压缩和GPU加速等技术在海量数据实时建模与现实中的应用。在本课题中将负责场景对象的三维建摸技术研究。
+
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* 2013.7 - 2014.2:  
+美国普渡大学电气与计算机工程学院访问学者
+
+* 2014.2 至今:  
+南京大学计算机科学与技术系副教授
+
+
 

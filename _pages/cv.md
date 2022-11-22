@@ -27,10 +27,10 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* 2013.7-2014.2:  
+* 2013.7 - 2014.2:  
 美国普渡大学电气与计算机工程学院访问学者
 
-* 2014.2-2014.2:  
+* 2014.2 - 2014.2:  
 南京大学计算机科学与技术系副教授
 
 Teaching
