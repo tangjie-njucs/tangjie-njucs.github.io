@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "唐杰"
+name                     : &name "Jie Tang"
 description              : &description "personal description"
 url                      : "https://Ezreal11.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "唐杰"
+  name             : "Jie Tang (唐杰)"
   avatar           : "tangj_large.jpg"
-  bio              : "副教授，硕士生导师"
+  bio              : "副教授，硕士生导师\nMCG Group, Nanjing University"
   location         : "南京大学仙林校区计算机楼1008室"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
